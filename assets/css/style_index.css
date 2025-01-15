@@ -24,9 +24,8 @@
 .logo {
   color: #2563eb;
   font-size: 24px;
-  font-weight: bold;
-  text-decoration: none;
-
+  height: 40px;
+  width: 40px;
 }
   
 .nav-menu {
@@ -73,31 +72,23 @@
   padding: 8px 20px;
   border-radius: 20px;
   text-decoration: none;
-  transition: background-color 0.3s ease;
+  /* transition: background-color 0.3s ease; */
 }
 
 .btn-login:hover {
   background-color: #1d4ed8;
 }
 
-.hamburger {
-  display: none;
-  cursor: pointer;
-  background: none;
-  border: none;
-  font-size: 24px;
+/* hero  */
+.hero {
+  background-image: url('https://images.unsplash.com/photo-1612838320302-4b3b3b3b3b3b');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-align: center;
 }
-
-@media (max-width: 768px) {
-  .nav-menu {
-      display: none;
-  }
-  
-  .search-box {
-      display: none;
-  }
-  
-  .hamburger {
-      display: block;
-  }
-}
+ 
