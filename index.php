@@ -23,13 +23,12 @@
                 <li><a href="#">Resources</a></li>
                 <li><a href="#">About</a></li>
                 <li><a href="#">Contact</a></li>
-            </ul>
-            
+            </ul> 
             <div class="nav-right">
                 <div class="search-box">
                     <input type="text" placeholder="Search...">
                 </div>
-                <a href="#" class="btn-login">Login</a>
+                <a href="assets/php/login.php" class="btn-login">Login</a>
             </div>
         </nav>
     </header>
@@ -37,3 +36,4 @@
 </html>
 
 
+<!-- localhost/MY_FIRST_PROJECT/index.php -->
