@@ -13,8 +13,6 @@ $data = mysqli_query($conn, $sql);
 
 if($data){
   ?>
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>

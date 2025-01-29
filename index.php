@@ -9,7 +9,6 @@
     <link rel="stylesheet" href="assets/css/style_index.css">
 </head>
 <body>
-
     <header class="header">
         <nav class="nav-container">
             <a href="#" class="logo"  ><img src="assets/img/madrash-01 1.png"></a>
@@ -28,8 +27,6 @@
             </div>
         </nav>
     </header>
- 
-  
 </body>
 </html>
 
